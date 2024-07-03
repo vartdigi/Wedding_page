@@ -1,8 +1,8 @@
 import './style.css';
-import { Uvod } from '../../components/Uvod/Uvod';
-import { MistoKonani } from '../../components/MistoKonani/MistoKonani';
-import { Ubytovani } from '../../components/Ubytovani/Ubytovani';
-import { Program } from '../../components/Program/Program';
+import { Uvod } from '../../components/Uvod/Uvod.jsx';
+import { MistoKonani } from '../../components/MistoKonani/MistoKonani.jsx';
+import { Ubytovani } from '../../components/Ubytovani/Ubytovani.jsx';
+import { Program } from '../../components/Program/Program.jsx';
 import { Kontakt } from '../../components/Kontakt/Kontakt.jsx';
 
 export const HomePage = () => {
