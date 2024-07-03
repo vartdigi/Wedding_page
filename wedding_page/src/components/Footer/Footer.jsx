@@ -1,7 +1,10 @@
+import './Footer.css';
+
 export const Footer = () => {
   return (
     <div className="NadpisFooter">
-      <p>Děkujeme za pozornost, a těšíme se na Vás</p>
+      <p className="Dekujeme">Děkujeme za pozornost, a těšíme se na Vás</p>
+      <span className="Made">made with Love</span>
     </div>
   );
 };

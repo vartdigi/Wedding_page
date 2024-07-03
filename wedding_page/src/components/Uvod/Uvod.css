@@ -3,6 +3,8 @@
 .fotka {
   width: 100%;
   height: auto;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .uvodniText {

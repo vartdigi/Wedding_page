@@ -1,6 +1,55 @@
 .detailKontakt {
+
+
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+
+.PopisekKontakt {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: "Baskerville";
+  letter-spacing: 2px;
+  line-height: 1.3rem;
+}
+
+.KontaktMatej {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+  gap: 10px;
+}
+
+.Matej {
+  max-width: 150px;
+
+}
+
+.Name {
+  font-family: "Newsreader";
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-top: 30px;
+
+}
+
+.Telefon {
+  font-family: "Baskeville";
+}
+
+.Line {
+  display: flex;
   justify-content: center;
   align-items: center;
 }
