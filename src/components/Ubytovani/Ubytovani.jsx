@@ -1,4 +1,4 @@
-import Ubytko from '../../../../assets/Ubytko.png';
+import Ubytko from '../../../assets/Ubytko.png';
 import './Ubytovani.css';
 
 export const Ubytovani = () => {

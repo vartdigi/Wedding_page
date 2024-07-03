@@ -1,7 +1,7 @@
-import ProgramPic from '../../../../assets/program.png';
+import ProgramPic from '../../../assets/program.png';
 import './Program.css';
-import Time from '../../../../assets/obrazekprogram.png';
-import ProgramTime from '../../../../assets/time.png';
+import Time from '../../../assets/obrazekprogram.png';
+import ProgramTime from '../../../assets/time.png';
 
 export const Program = () => {
   return (

@@ -1,6 +1,6 @@
-import Menu from '../../../../assets/menu.png';
+import Menu from '../../../assets/menu.png';
 import './Header.css';
-import Krizek from '../../../../assets/krizek.png';
+import Krizek from '../../../assets/krizek.png';
 import React, { useState } from 'react';
 
 export const Header = () => {

@@ -1,8 +1,8 @@
 import './MistoKonani.css';
-import DressCode from '../../../../assets/dressCode.png';
-import Barvy from '../../../../assets/barvy.png';
-import Rim from '../../../../assets/misto.png';
-import Misto from '../../../../assets/MistoKonani.png';
+import DressCode from '../../../assets/dressCode.png';
+import Barvy from '../../../assets/barvy.png';
+import Rim from '../../../assets/misto.png';
+import Misto from '../../../assets/MistoKonani.png';
 import React from 'react';
 
 export const MistoKonani = () => {

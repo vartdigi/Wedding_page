@@ -1,7 +1,8 @@
-import DetailKontakt from '../../../../assets/Kontakt.png';
-import Matej from '../../../../assets/Matej.png';
-import Line from '../../../../assets/Line.png';
+import DetailKontakt from '../../../assets/Kontakt.png';
+import Matej from '../../../assets/Matej.png';
+import Line from '../../../assets/Line.png';
 import './Kontakt.css';
+
 export const Kontakt = () => {
   return (
     <section id="Kontakt">
