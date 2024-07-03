@@ -11,7 +11,7 @@ export const Kontakt = () => {
       </div>
       <div className="KontaktMatej">
         <p className="PopisekKontakt">
-          V případě jakéhokoliv dotazu obracejte na svědka ženicha.
+          V případě jakéhokoliv dotazu se obracejte na svědka ženicha.
         </p>
         <img className="Matej" src={Matej} />
         <span className="Name">Matěj Holeček</span>

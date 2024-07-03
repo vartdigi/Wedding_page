@@ -8,6 +8,17 @@
   flex-direction: column;
 }
 
+@media (max-width:300px) {
+  .NadpisFooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
+
+}
+
 .Made {
   font-size: 12px;
   margin: 10px;
