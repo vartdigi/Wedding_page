@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+.fotka {
+  width: 100%;
+  height: auto;
+}
+
+.uvodniText {
+  font-size: 21px;
+  font-style: normal;
+  color: #4B574D;
+  text-align: right;
+  margin-right: 20px;
+  margin-top: 15px;
+
+
+}
+
+.uvodniDatum {
+  font-size: 48px;
+  display: flex;
+  flex-direction: column;
+  font-family: "Baskerville";
+  margin-left: 20px;
+  margin-top: 20px;
+
+}
+
+.datumText {
+  display: flex;
+  gap: 50px;
+
+}
+
+.sipka {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+  margin-top: 40px;
+}
