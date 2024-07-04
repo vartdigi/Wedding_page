@@ -20,7 +20,8 @@ export const Uvod = () => {
             <p>
               S radostí a úsměvem Vám oznamujeme, že se budeme brát.
               <span>
-                Areál hotelu Obora v Kněžičkách u Chlumce nad Cidlinou.
+                Své prstýnky si vyměníme v areálu hotelu Obora v Kněžičkách u
+                Chlumce nad Cidlinou.
               </span>
             </p>
           </div>
