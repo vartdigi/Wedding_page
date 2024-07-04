@@ -32,7 +32,7 @@ export const MistoKonani = () => {
           <img src={Misto} />
           <p className="mistoText">
             Zde najdete místo konání obřadu a následné oslavy. Parkování je
-            zajištěné v areálů, a je zdarma.
+            zajištěné v areálů a je zdarma.
           </p>
           <button onClick={handleClick} className="btn">
             MAPA
