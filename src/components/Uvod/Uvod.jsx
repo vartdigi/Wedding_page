@@ -18,11 +18,9 @@ export const Uvod = () => {
           </div>
           <div className="uvodniText">
             <p>
-              S radostí a úsměvem Vám oznamujeme, že se budeme brát.
-              <span>
-                Své prstýnky si vyměníme v areálu hotelu Obora v Kněžičkách u
-                Chlumce nad Cidlinou.
-              </span>
+              S radostí a úsměvem Vám oznamujeme, že se budeme brát. Své
+              prstýnky si vyměníme v areálu hotelu Obora v Kněžičkách u Chlumce
+              nad Cidlinou.
             </p>
           </div>
         </div>
